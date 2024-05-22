@@ -105,8 +105,8 @@ int main() {
 
     library[0] = new Book("The Great Gatsby", "F. Scott Fitzgerald");
     library[1] = new Book("1984", "George Orwell");
-    library[2] = new Tape("The Beatles", 45.5);
-    library[3] = new Tape("Pink Floyd", 60.0);
+    library[2] = new Tape("Ken Carson", 45.5);
+    library[3] = new Tape("Frank Ocean", 60.0);
 
     libraryOperations(library, librarySize);
 
