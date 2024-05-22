@@ -1,4 +1,4 @@
-// AIM : Create a class Book with data members book number, book name and member function getdata() and putdata(). Create a a class Author with data members author name, publisher, and members getdata() and showdata(). Create an another class Detail with data members no of pages and year of publication. Derive detail from Book and Publisher. Display all the information by using array of objects of class Detail
+// AIM : Create a class Book with data members book number, book name and member function getdata() and putdata(). Create a class Author with data members author name, publisher, and members getdata() and showdata(). Create another class Detail with data members no of pages and year of publication. Derive detail from Book and Publisher. Display all the information by using array of objects of class Detail
 
 #include <iostream>
 using namespace std;
